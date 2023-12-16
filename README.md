@@ -1,4 +1,4 @@
-# Engineer Ally
+# Multi-Assistant Chat
 
 A simple cli chat interface that enables users to interact with various OpenAI Assistants. This application leverages the OpenAI Assistant API,
 allowing for conversation threads and intelligent responses from multiple assistants based on user queries.
