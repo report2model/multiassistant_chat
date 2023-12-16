@@ -1,14 +1,14 @@
 [
-    {
-        "name": "Assistant Name",
-        // Name must match OpenAI Assistant name
-        "id": "asst_id"
-        // ID must match OpenAI Assistant ID
-    },
-    {
-        "name": "Assistant Name",
-        // Name must match OpenAI Assistant name
-        "id": "asst_id"
-        // ID must match OpenAI Assistant ID
-    }
+  {
+    "name": "T1",
+    "id": "asst_Y2CHvRUL5y4uRGTvDl1BcVjZ"
+  },
+  {
+    "name": "T2",
+    "id": "asst_aLX977FNAm4ALJSs2Nny89hm"
+  },
+  {
+    "name": "T3",
+    "id": "asst_GCoZ3xTj1KDkcjFb7up6yEpO"
+  }
 ]
