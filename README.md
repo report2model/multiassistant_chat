@@ -54,7 +54,7 @@ node index.js
 
 # Usage
 
-Once the application is running select assistants to query, input your query, and hit enter to get responses.
+Once the application is running, select which assistant or assistants you would like to chat with. It will then list the attached files to the assistants if any are available. You can then query the assistants. At any time during an input you can type "new" to switch to a new assistant or type "exit" to exit the application.
 
 # Application Structure
 
