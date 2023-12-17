@@ -22,7 +22,7 @@ Clone the repository, install the dependencies, and start the application using 
 
 ```sh
 # Clone the repository to your local machine
-git clone https://github.com/report2model/engineer_ally
+git clone https://github.com/report2model/multiassistant_chat
 
 # Navigate to the project directory
 cd your-project-root-directory
